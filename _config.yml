@@ -1,8 +1,16 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: A52/A72 guide
+description: Various ROM and Recovery installation guides for Samsung A52 4G/A72
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://guide.simon1511.de
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+color_scheme: sm7125
+
+footer_content: "Copyright &copy; 2024 Simon1511 and Risen. All rights reserved."
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  highlight:
+    color: yellow
